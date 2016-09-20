@@ -8,6 +8,8 @@ config.limits.CQPS = 4; // character queries per second.
 
 config.api = {};
 config.api.key = '6fa07022-ed02-4ef8-9ba8-66d70ea65927'; // api key.
+//config.api.key = 'e90560d9-313b-4c4e-be97-ca60ff0ce6fa'; // test key
+
 config.api.baseUrl = 'https://generiwittcism.com:8000/api3/?session='+config.api.key; // base url for all commands.
 
 
@@ -29,3 +31,28 @@ config.ent.STAIR_DOWN  = 0x00400000;
 config.ent.STAIR_UP    = 0x00800000;
 config.ent.LABEL       = 0xFF000000;
 config.ent.FORGE       = 0x02000000;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
